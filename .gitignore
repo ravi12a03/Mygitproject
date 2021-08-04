@@ -1,2 +1,2 @@
-myfile.logs
-pic1.png
+*.logs
+*.png
